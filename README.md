@@ -9,3 +9,4 @@ A continuacion el pdf con todas las actividades
 
 Tambien presentamos y expusimos un powerpoint sobre una actividad hecha en clase. La actividad que nos tocó fue Vector Secuencia.
 
+[Ver PDF](./Vector_secuencia.pdf)
