@@ -6,3 +6,6 @@ A continuacion el pdf con todas las actividades
 ## 📄 Módulo 2
 
 [Ver PDF](./modulo_2_actividades_Mili_Farina.pdf)
+
+Tambien presentamos y expusimos un powerpoint sobre una actividad hecha en clase. La actividad que nos tocó fue Vector Secuencia.
+
